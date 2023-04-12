@@ -1,9 +1,0 @@
-Steps:
-Button to play sound
-Light turns on when button is pressed
-
-x2
-
-Get slider to work 
-
-Get toggle to work
